@@ -2,26 +2,24 @@
 using namespace std;
 
 int main() {
-    int a[6][6];
+    int ar[6][6];
 
     for(int i=0;i<6;i++)
     {
         for(int j=0;j<6;j++)
         {
-            cin>>a[i][j];
+            cin>>ar[i][j];
         }
     }
 
     int maxSum=INT_MIN;
 
-    for(int i=0;i<=3;i++)
-    {
-        for(int j=1;j<=5;j++)
-        {
-            int tempSum;
-            tempSum=a[i][j]+a[i][j-1]+a[i][j+1]+a[i+1][j]+a[i+2][j]+a[i+2][j-1]+a[i+2][j+1];
-            if(tempSum>maxSum)
-                maxSum=tempSum;
+    for(int i = 0; i < 6; i++){
+        for(int j = 0; j < 6; j++){
+            if(j+2 < 6 && i+2 < 6 ){
+                int sum = ar[i][j] + ar[i][j+1] + ar[i][j+2] + ar[i+1][j+1] + ar[i+2][j] + ar[i+2][j+1] + ar[i+2][j+2];
+                if(sum > maxSum)maxSum = sum;
+            }
         }
     }
     cout<<maxSum<<endl;
