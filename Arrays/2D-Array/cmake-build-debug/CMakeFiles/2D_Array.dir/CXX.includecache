@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vishal/Desktop/IPHackerRank/InterviewPreparationHackerRank/Arrays/2D-Array/main.cpp
+bits/stdc++.h
+-
+

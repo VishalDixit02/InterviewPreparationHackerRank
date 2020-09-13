@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vishal/Desktop/IPHackerRank/InterviewPreparationHackerRank/Arrays/2D Array - DS/main.cpp" "/home/vishal/Desktop/IPHackerRank/InterviewPreparationHackerRank/Arrays/2D Array - DS/cmake-build-debug/CMakeFiles/Ques1.dir/main.cpp.o"
+  "/home/vishal/Desktop/IPHackerRank/InterviewPreparationHackerRank/Arrays/2D-Array/main.cpp" "/home/vishal/Desktop/IPHackerRank/InterviewPreparationHackerRank/Arrays/2D-Array/cmake-build-debug/CMakeFiles/2D_Array.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
