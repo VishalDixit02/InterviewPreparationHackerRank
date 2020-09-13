@@ -1,2 +1,0 @@
-# InterviewPreparationHackerRank
-Just keep coding
