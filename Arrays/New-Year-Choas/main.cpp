@@ -23,7 +23,7 @@ int main() {
                 flag=true;
                 break;
             }
-            for(int j=0;j<i;j++)
+            for(int j=a[i]-2;j<i;j++)
             {
                 if(a[j]>a[i])
                     count++;
