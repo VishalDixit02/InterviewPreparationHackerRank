@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d4699e-78ad-4167-9cc2-7c00937c5ff9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="f7d4699e-78ad-4167-9cc2-7c00937c5ff9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600020120179</updated>
-      <workItem from="1600020121440" duration="508000" />
+      <workItem from="1600020121440" duration="619000" />
     </task>
     <servers />
   </component>
@@ -71,6 +69,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="295" height="590" key="GridCell.Tab.0.bottom" timestamp="1600020740520">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="295" height="590" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600020740520" />
+    <state width="295" height="590" key="GridCell.Tab.0.center" timestamp="1600020740518">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="295" height="590" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600020740518" />
+    <state width="295" height="590" key="GridCell.Tab.0.left" timestamp="1600020740517">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="295" height="590" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600020740517" />
+    <state width="295" height="590" key="GridCell.Tab.0.right" timestamp="1600020740519">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="295" height="590" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600020740519" />
     <state x="278" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1600020629679">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/New_Year_Choas.dir/main.cpp.o  -o New_Year_Choas 

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vishal/Desktop/IPHRank/InterviewPreparationHackerRank/Arrays/New-Year-Choas/main.cpp
+bits/stdc++.h
+-
+
